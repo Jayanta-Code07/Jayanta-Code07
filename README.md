@@ -97,167 +97,164 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
       <b>C</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>
       <b>C++</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
       <b>Java</b>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
       <b>JavaScript</b>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
       <b>HTML5</b>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
       <b>CSS3</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
       <b>React.js</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
       <b>Node.js</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>
       <b>Express.js</b>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
       <b>MongoDB</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
       <b>MySQL</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br/>
-      <b>Redis</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50"/><br/>
-      <b>Socket.IO</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webrtc/webrtc-original.svg" width="50"/><br/>
-      <b>WebRTC</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br/>
-      <b>Docker</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br/>
-      <b>Bootstrap</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/><br/>
-      <b>Material UI</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="45"/><br/>
       <b>Mongoose</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45"/><br/>
+      <b>Socket.IO</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>
+      <b>Bootstrap</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45"/><br/>
+      <b>Material UI</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br/>
+      <b>Docker</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/><br/>
+      <b>Redis</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/><br/>
+      <b>Vite</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>
       <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/>
       <b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>
       <b>VS Code</b>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/><br/>
       <b>npm</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50"/><br/>
-      <b>Vite</b>
+      <img src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/packages/hoppscotch-common/assets/images/logo.svg" width="45"/><br/>
+      <b>Hoppscotch</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/>
-      <b>Linux</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
-      <b>REST APIs</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br/>
-      <b>Session / Caching</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" width="50"/><br/>
+      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45"/><br/>
       <b>Cloudinary</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
-      <b>React Router</b>
+      <img src="https://cdn.simpleicons.org/webrtc/333333" width="45"/><br/>
+      <b>WebRTC</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50"/><br/>
+      <img src="https://cdn.simpleicons.org/json/000000" width="45"/><br/>
       <b>JSON</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groq/groq-original.svg" width="50"/><br/>
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45"/><br/>
+      <b>LangChain</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="45"/><br/>
+      <b>Gemini API</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/groq/F55036" width="45"/><br/>
       <b>Groq API</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="45"/><br/>
+      <b>Clerk</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50"/><br/>
-      <b>LangChain</b>
+      <img src="https://cdn.simpleicons.org/express/000000" width="45"/><br/>
+      <b>REST APIs</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/><br/>
-      <b>Gemini API</b>
+      <img src="https://cdn.simpleicons.org/passport/34E27A" width="45"/><br/>
+      <b>Passport.js</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>
-      <b>Postman</b>
+      <img src="https://cdn.simpleicons.org/leaflet/199900" width="45"/><br/>
+      <b>Leaflet</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="45"/><br/>
+      <b>OpenStreetMap</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="45"/><br/>
+      <b>Render</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mui/007FFF" width="45"/><br/>
+      <b>MUI</b>
     </td>
   </tr>
 </table>
