@@ -48,7 +48,47 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
   <i>Code. Build. Solve. Learn. Repeat. 🚀</i>
 </p>
 
+<hr/>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>💬 HeyTelo</h3>
+      <p>
+        A real-time chat platform with private messaging, chat rooms,
+        Socket.IO communication, Clerk authentication, and AI-powered conversations.
+      </p>
+      <p>
+        <b>React • Node.js • Express.js • MongoDB • Socket.IO • Clerk • AI</b>
+      </p>
+      <a href="https://heytelo-frontend.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white" />
+      </a>
+    </td>
+
+    <td width="50%" align="center">
+      <h3>🌍 Wanderlust</h3>
+      <p>
+        A full-stack travel listing platform where users can explore,
+        create, review, and manage property listings.
+      </p>
+      <p>
+        <b>Node.js • Express.js • MongoDB • Mongoose • EJS • Cloudinary</b>
+      </p>
+      <a href="https://wanderlust-ztxj.onrender.com/listings" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <i>✨ More projects coming soon...</i>
+</p>
 
 <!--
 **Jayanta-Code07/Jayanta-Code07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
