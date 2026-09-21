@@ -253,8 +253,8 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       <b>Render</b>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/mui/007FFF" width="45"/><br/>
-      <b>MUI</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/>
+      <b>PostgreSQL</b>
     </td>
   </tr>
 </table>
