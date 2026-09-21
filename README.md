@@ -265,6 +265,78 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
   <i>⚡ Always learning, experimenting, and building with modern technologies.</i>
 </p>
 
+<hr/>
+
+<h2 align="center">🧠 CS Fundamentals</h2>
+
+<table align="center">
+  <tr>
+    <td width="33%">
+      🌐 <b>Computer Networking</b>
+    </td>
+    <td width="33%">
+      🧩 <b>Object-Oriented Programming</b>
+    </td>
+    <td width="33%">
+      ⚙️ <b>Operating Systems</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🗄️ <b>Database Management System</b>
+    </td>
+    <td>
+      📊 <b>Data Structures & Algorithms</b>
+    </td>
+    <td>
+      💡 <b>Problem Solving</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🏆 <b>Competitive Programming</b>
+    </td>
+    <td>
+      🧮 <b>Discrete Mathematics</b>
+    </td>
+    <td>
+      🔢 <b>SQL & Database Concepts</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🧵 <b>Multithreading & Concurrency</b>
+    </td>
+    <td>
+      🔐 <b>Computer Security Basics</b>
+    </td>
+    <td>
+      🏗️ <b>Software Engineering</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🌳 <b>Algorithms & Complexity</b>
+    </td>
+    <td>
+      🔄 <b>Recursion & Dynamic Programming</b>
+    </td>
+    <td>
+      🕸️ <b>Graphs & Graph Algorithms</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <i>🧠 Strengthening core CS concepts through continuous learning and problem solving.</i>
+</p>
+
 <!--
 **Jayanta-Code07/Jayanta-Code07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
