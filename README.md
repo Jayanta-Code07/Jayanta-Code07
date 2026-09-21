@@ -68,7 +68,7 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       </a>
     </td>
 
-    <td width="50%" align="center">
+  <td width="50%" align="center">
       <h3>🌍 Wanderlust</h3>
       <p>
         A full-stack travel listing platform where users can explore,
