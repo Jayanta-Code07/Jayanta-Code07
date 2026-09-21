@@ -50,9 +50,6 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
 
 <hr/>
 
-<hr/>
-
-<hr/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
