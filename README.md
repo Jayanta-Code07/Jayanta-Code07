@@ -52,11 +52,13 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
 
 <hr/>
 
+<hr/>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
   <tr>
-    <td width="46%" align="center" valign="top">
+    <td width="50%" align="center">
       <h3>💬 HeyTelo</h3>
       <p>
         A real-time chat platform with private messaging, chat rooms,
@@ -65,16 +67,12 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       <p>
         <b>React • Node.js • Express.js • MongoDB • Socket.IO • Clerk • AI</b>
       </p>
-      <br/>
       <a href="https://heytelo-frontend.onrender.com/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/🚀%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white&labelColor=111827"
-          alt="HeyTelo Live Demo"
-        />
+        <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white" />
       </a>
     </td>
-    <td width="8%"></td>
-    <td width="46%" align="center" valign="top">
+
+  <td width="50%" align="center">
       <h3>🌍 Wanderlust</h3>
       <p>
         A full-stack travel listing platform where users can explore,
@@ -83,12 +81,8 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       <p>
         <b>Node.js • Express.js • MongoDB • Mongoose • EJS • Cloudinary</b>
       </p>
-      <br/>
       <a href="https://wanderlust-ztxj.onrender.com/listings" target="_blank">
-        <img
-          src="https://img.shields.io/badge/🌐%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white&labelColor=111827"
-          alt="Wanderlust Live Demo"
-        />
+        <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C23D?style=for-the-badge&logo=render&logoColor=white" />
       </a>
     </td>
   </tr>
