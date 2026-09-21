@@ -195,7 +195,7 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       <b>npm</b>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/packages/hoppscotch-common/assets/images/logo.svg" width="45"/><br/>
+      <img src="https://cdn.simpleicons.org/hoppscotch/FF6C37" width="45"/><br/>
       <b>Hoppscotch</b>
     </td>
     <td align="center">
@@ -222,7 +222,7 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
       <b>Gemini API</b>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/groq/F55036" width="45"/><br/>
+      <img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" width="45"/><br/>
       <b>Groq API</b>
     </td>
     <td align="center">
