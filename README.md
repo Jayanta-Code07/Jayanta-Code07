@@ -39,6 +39,7 @@ I'm <b>Jayanta Debnath</b>, a B.Tech Information Technology student at
   <li>🚀 Building <b>real-time and scalable web applications</b> using <b>Socket.io</b> and <b>WebRTC</b> </li>
   <li>🧩 Passionate about <b>DSA & Competitive Programming</b></li>
   <li>🤖 Exploring <b>AI, LLMs, LangChain & AI-powered applications</b></li>
+  <li>💬 Build <b>HeyTelo</b> — a real-time chat platform using React, Node.js, Socket.IO, Clerk, and AI-powered chat features</li>
   <li>♟️ Building <b>MateLab</b> — a chess learning platform with a custom C++ chess engine</li>
   <li>🌱 Currently learning <b>System Design, AI & modern web technologies</b></li>
 </ul>
